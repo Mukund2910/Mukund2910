@@ -25,9 +25,7 @@
 - 🎓 **B.Tech CSE student** at BML Munjal University (2023–2027)
 - 🤖 **AI/ML Engineer** — building intelligent systems with LLMs, ML pipelines & multi-agent frameworks
 - 💼 **AI/ML Intern @ EDATAPOINT** (May–July 2025) — real-world experience in scalable AI solutions
-- 🛠️ **Full-Stack Developer** — React.js, Node.js, REST APIs, Docker
 - 🏆 **Hackathon builder** — shipped an IoT Accident Detection + SOS system in 24 hours
-- 📚 **1500+ DSA problems** solved across LeetCode & Codeforces
 - 🔭 Currently exploring **agentic AI**, **distributed systems**, and **LLM-powered developer tools**
 - 💡 Mantra: *Code • Build • Learn • Innovate*
 
