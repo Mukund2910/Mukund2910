@@ -22,16 +22,14 @@
 
 ## ⚡ About Me
 
-```python
-class Mukund:
-    name       = "Mukund Madhav Agarwal"
-    title      = "AI/ML Engineer & Software Developer"
-    university = "BML Munjal University — B.Tech CSE (2023–2027)"
-    focus      = ["LLMs & Generative AI", "ML Pipelines", "Scalable Systems",
-                  "Multi-Agent Frameworks", "Full-Stack Development"]
-    experience = "EDATAPOINT — AI/ML Intern (May–July 2025)"
-    mantra     = "Code • Build • Learn • Innovate"
-```
+- 🎓 **B.Tech CSE student** at BML Munjal University (2023–2027)
+- 🤖 **AI/ML Engineer** — building intelligent systems with LLMs, ML pipelines & multi-agent frameworks
+- 💼 **AI/ML Intern @ EDATAPOINT** (May–July 2025) — real-world experience in scalable AI solutions
+- 🛠️ **Full-Stack Developer** — React.js, Node.js, REST APIs, Docker
+- 🏆 **Hackathon builder** — shipped an IoT Accident Detection + SOS system in 24 hours
+- 📚 **1500+ DSA problems** solved across LeetCode & Codeforces
+- 🔭 Currently exploring **agentic AI**, **distributed systems**, and **LLM-powered developer tools**
+- 💡 Mantra: *Code • Build • Learn • Innovate*
 
 ---
 
@@ -46,19 +44,19 @@ class Mukund:
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Word2Vec-FF6F00?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 **Web & Backend**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark"/>
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
 **Databases & DevOps**
 
@@ -70,11 +68,11 @@ class Mukund:
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Description |
+| Project | Stack | What it does |
 |---|---|---|
-| 🔍 **DataLens** | Python · Streamlit · Gemini API · Plotly · Docker · Redis | AI-powered data intelligence dashboard — self-hosted, LLM-driven analytics |
-| 🗄️ **ASKSQL** | Python · CrewAI · SQLAlchemy · Mermaid.js | Multi-agent system converting ER diagrams to production-ready SQL queries |
-| 🏥 **Telehealth LSTM Chatbot** | TensorFlow · Bidirectional LSTM · Word2Vec | Clinical-grade healthcare chatbot with sequence modeling and NLP |
+| 🔍 **DataLens** | Python · Streamlit · Gemini API · Plotly · Docker · Redis | Self-hosted AI data intelligence dashboard with LLM-driven analytics |
+| 🗄️ **ASKSQL** | Python · CrewAI · SQLAlchemy · Mermaid.js | Multi-agent system that converts ER diagrams to production-ready SQL |
+| 🏥 **Telehealth LSTM Chatbot** | TensorFlow · Bidirectional LSTM · Word2Vec | Clinical-grade healthcare chatbot using advanced NLP sequence modeling |
 | 📈 **Explorer PM** | Python · AI/ML | AI-powered financial portfolio manager with intelligent recommendations |
 
 ---
@@ -83,13 +81,15 @@ class Mukund:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mukund2910&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mukund2910&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukund2910&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukund2910&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="40%"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukund2910&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&dates=8b949e" width="55%"/>
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Mukund2910&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&dates=8b949e" width="55%"/>
 
 </div>
 
@@ -99,7 +99,7 @@ class Mukund:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mukund2910&theme=github_dark&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mukund2910&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="80%"/>
 
 </div>
 
@@ -125,21 +125,21 @@ class Mukund:
 
 ---
 
-## 🎖️ Achievements & Certifications
+## 🎖️ Achievements
 
-- 🥇 **Hackathon** — Built an IoT-based Accident Detection System with SOS transmission in 24 hours
+- 🥇 Built an **IoT Accident Detection System** with real-time SOS transmission — 24-hour hackathon
 - 🎓 **Artificial Intelligence Certification** — Acmegrade
-- 🤝 **Volunteer** — SIH 2024 Organizing Committee
+- 🤝 **Volunteer** — Smart India Hackathon (SIH) 2024 Organizing Committee
 - 💼 **AI/ML Intern** — EDATAPOINT (May–July 2025)
 
 ---
 
 ## 🔭 Currently
 
-- 🏗️ Extending **DataLens** with multi-model LLM support & team collaboration
-- 🤖 Exploring **agentic AI systems** with CrewAI and LangGraph
-- 📚 Deepening **System Design** knowledge — distributed systems & DB internals
-- 🤝 Open to **AI/ML internships**, research roles & interesting open-source collabs
+- 🏗️ Extending **DataLens** with multi-model LLM support & collaboration features
+- 🤖 Deep-diving into **agentic AI** with CrewAI and LangGraph
+- 📚 Strengthening **System Design** — distributed systems & database internals
+- 🤝 Open to **AI/ML internships**, research collaborations & open-source projects
 
 ---
 
